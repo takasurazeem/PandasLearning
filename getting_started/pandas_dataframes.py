@@ -24,5 +24,5 @@ print(df2)
 print()
 print(df2.loc["day2"])
 
-cities = pd.read_csv('datasets/worldcities.csv')
+cities = pd.read_csv('../datasets/worldcities.csv')
 print(cities)
